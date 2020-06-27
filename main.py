@@ -1,4 +1,5 @@
-import random, os
+import os
+import random
 
 folder_path = "./files_to_corrupt"
 
