@@ -1,5 +1,5 @@
 # File Corrupter
-###Corrupt any file you put in
+### Corrupt any file you put in
 
 Any file you wish to corrupt can be put into the folder called "files_to_corrupt".
 If the folder does not exist it can ether be created by you or just run the application
