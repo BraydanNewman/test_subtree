@@ -1,4 +1,4 @@
-#Website Spamer/Reloader
+# Website Spamer/Reloader
 This program just continuously reloads a web page and i used it at school 
 to be the person with the most views on a class page and no i have no 
 use for it i give it you
