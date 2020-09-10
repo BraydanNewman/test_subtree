@@ -15,7 +15,7 @@ To use it is very simple just
 1. Then in the terminal click any key to continue with the 'Spamming'
 1. The number of requests will appear on the left side and the status will appear on 
 the right
-    * __The status number should be in the 200 and if it is not there is an issue__
+    * __The status number should be in the 200's and if it is not there is an issue__
 ## Problem Running
 If there is an issue with the program, the problem may be the chrome driver,
 as the chrome driver in the project is for Chrome Version 85. It will not work
