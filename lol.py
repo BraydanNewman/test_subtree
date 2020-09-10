@@ -19,7 +19,7 @@ def main():
         driver.switch_to.window(driver.window_handles[0])
         driver.refresh()
         # Change the "0.5" to how many seconds you want in between reloads
-        time.sleep(0.5)
+        # time.sleep(0.5)
         tap_closer()
 
 
@@ -29,6 +29,7 @@ def tap_closer():
         if len(driver.window_handles) > 1:
             driver.switch_to.window(driver.window_handles[1])
             driver.close()
+        else:
             check = False
 
 
